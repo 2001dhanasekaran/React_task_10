@@ -1,0 +1,21 @@
+.watch{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.watch div{
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 30px;
+    text-align: center;
+}
+button{
+    width: 100px;
+    padding: 10px;
+    border-radius: 50px;
+}
+button:hover{
+    box-shadow: 0 8px 10px rgb(98, 168, 201);
+}
